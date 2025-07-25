@@ -80,9 +80,3 @@ This creates a simple, insecure login page accessible at:
 
 ---
 
-### 7. Document Your Findings
-
-- Write a brief summary in your README or separate notes about how unencrypted HTTP traffic leaks sensitive info and why HTTPS is important.
-
----
-

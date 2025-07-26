@@ -1,8 +1,8 @@
-\# Wireshark Password Capture Lab
+# Wireshark Password Capture Lab
 
 
 
-\## Overview
+## Overview
 
 This lab demonstrates how plaintext login credentials can be captured over HTTP using Wireshark.  
 
@@ -10,7 +10,7 @@ A Windows VM submits a fake username and password to a Kali Linux-hosted insecur
 
 
 
-\## Objectives
+## Objectives
 
 \- Understand risks of unencrypted login forms (HTTP)
 
@@ -20,7 +20,7 @@ A Windows VM submits a fake username and password to a Kali Linux-hosted insecur
 
 
 
-\## Tools Used
+## Tools Used
 
 \- Kali Linux (Wireshark, Apache2)
 
@@ -28,7 +28,7 @@ A Windows VM submits a fake username and password to a Kali Linux-hosted insecur
 
 
 
-\## MITRE ATT\&CK Mapping
+## MITRE ATT\&CK Mapping
 
 \- T1040 - Network Sniffing
 
